@@ -1,0 +1,29 @@
+#container {
+  margin: auto;
+  max-width: 450px;
+  text-align: center;
+  color: white;
+}
+
+#quoteHolder {
+  margin-top: 2rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  min-height: 22rem;
+  font-size: 2rem;
+  display: table;
+}
+
+#quote {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#authorHolder {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+}
+
+#buttonsHolder {
+  margin-top: 2rem;
+}

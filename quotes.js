@@ -3,9 +3,6 @@ export const quotes = [
     "The ability to speak does not make you intelligent.": "Qui-Gon Jinn"
   },
   {
-    "I am not a committee.": "Princess Leia"
-  },
-  {
     "Fear leads to anger, anger leads to hate, hate leads to suffering.": "Yoda"
   },
   {
@@ -26,12 +23,7 @@ export const quotes = [
   {
     "Never tell me the odds.": "Han Solo"
   },
-  {
-    "Rebellions are built on hope.": "Jyn"
-  },
-  {
-    "Logic is the beginning of wisdom, not the end.": "Spock"
-  },
+  { "Beam me up Scotty": "Captain James T. Kirk" },
   {
     "Live long, and prosper.": "Spock"
   },
@@ -39,22 +31,13 @@ export const quotes = [
     "Things are only impossible until they’re not.": "Captain Jean-Luc Picard"
   },
   {
-    "It is possible to commit no errors and still lose. That is not a weakness. That is life.": "Captain Jean-Luc Picard"
-  },
-  {
     "To boldly go where no man has gone before.": "Captain James T. Kirk"
-  },
-  {
-    "Yer a wizard Harry.": "Rubeus Hagrid"
-  },
-  {
-    "It does not do well to dwell on dreams and forget to live.": "Albus Dumbledore"
   },
   {
     "Fear of a name only increases fear of the thing itself.": "Hermione Granger"
   },
   {
-    "It is our choices, Harry, that show what we truly are, far more than our abilities.": "Albus Dumbledore"
+    "It is our choices ... that show what we truly are, far more than our abilities.": "Albus Dumbledore"
   },
   {
     "Dobby is free.": "Dobby"
@@ -72,9 +55,6 @@ export const quotes = [
     "Don’t let the muggles get you down.": "Ron Weasley"
   },
   {
-    "Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.": "Albus Dumbledore"
-  },
-  {
     "Mischief Managed!": "Harry Potter"
   },
   {
@@ -84,16 +64,7 @@ export const quotes = [
     "I mean, it's sort of exciting, isn't it, breaking the rules?": "Hermione Granger"
   },
   {
-    "Youth can not know how age thinks and feels. But old men are guilty if they forget what it was to be young.": "Albus Dumbledore"
-  },
-  {
-    "Harry was left to ponder in silence the depths to which girls would sink to get revenge.": "J.K. Rowling"
-  },
-  {
     "Once again, you show all the sensitivity of a blunt axe.": "Nearly Headless Nick"
-  },
-  {
-    "It is the quality of one’s convictions that determines success, not the number of followers.": "Remus Lupin"
   },
   {
     "He can run faster than Severus Snape confronted with shampoo.": "Fred Weasley"
@@ -105,7 +76,7 @@ export const quotes = [
     "Deeds will not be less valiant because they are unpraised.": "Aragorn"
   },
   {
-    "You step into the Road, and if you don’t keep your feet, there is no knowing where you might be swept off to.": "J.R.R. Tolkien"
+    "You step into the Road, and if you don’t keep your feet, there is no knowing where you might be swept off to.": "Bilbo Baggins"
   },
   {
     "It’s the job that’s never started as takes longest to finish.": "Sam Gamgee"
@@ -114,13 +85,10 @@ export const quotes = [
     "If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.": "Thorin Oakenshield"
   },
   {
-    "Despair is only for those who see the end beyond all doubt. We do not.": "Gandalf"
-  },
-  {
     "I would rather share one lifetime with you than face all the ages of this world alone.": "Arwen"
   },
   {
-    "There’s some good in this world, Mr. Frodo… and it’s worth fighting for.": "Sam Gangee"
+    "There’s some good in this world ... and it’s worth fighting for.": "Sam Gangee"
   },
   {
     "All we have to decide is what to do with the time that is given us.": "Gandalf"
@@ -132,7 +100,7 @@ export const quotes = [
     "One does not simply walk into Mordor": "Boromir"
   },
   {
-    "It’s a dangerous business, Frodo, going out your door. You step onto the road, and if you don’t keep your feet, there’s no knowing where you might be swept off to.": "Bilbo Baggins"
+    "It’s a dangerous business ... going out your door. You step onto the road, and if you don’t keep your feet, there’s no knowing where you might be swept off to.": "Bilbo Baggins"
   },
   {
     "I can’t carry it for you, but I can carry you.": "Sam Gamgee"
@@ -154,9 +122,6 @@ export const quotes = [
   },
   {
     "War will make corpses of us all.": "Faramir"
-  },
-  {
-    "Many that live deserve death. And some that die deserve life. Can you give it to them? Then do not be too eager to deal out death in judgement. For even the very wise cannot see all ends.": "Gandalf"
   },
   {
     "It is no bad thing to celebrate a simple life.": "Bilbo Baggins"

@@ -11,7 +11,6 @@ let index = Math.floor(Math.random() * bgColors.length);
 
 export function getColor() {
   index = (index + 1) % bgColors.length;
-  console.log(index);
   return bgColors[index];
 }
 

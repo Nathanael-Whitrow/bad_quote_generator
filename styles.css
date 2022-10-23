@@ -1,8 +1,12 @@
+:root {
+  --text-color: white;
+}
+
 #container {
   margin: auto;
   max-width: 450px;
   text-align: center;
-  color: white;
+  color: var(--text-color);
 }
 
 #quoteHolder {
@@ -26,4 +30,11 @@
 
 #buttonsHolder {
   margin-top: 2rem;
+}
+
+#getQuote {
+  border: 1px solid var(--text-color);
+  text-decoration: none;
+  color: var(--text-color);
+  padding: 5px 10px;
 }

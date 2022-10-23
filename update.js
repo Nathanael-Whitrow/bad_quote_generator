@@ -3,15 +3,17 @@ import { getColor } from './bgColors.js'
 
 const text = document.body.querySelector("#quote");
 const author = document.body.querySelector("#author");
-const newQuote = document.body.querySelector("#getQuote");
+const quoteButton = document.body.querySelector("#getQuote");
 
 // First time load
 text.innerHTML = getQuote();
 author.innerHTML = "- " + getAuthor();
 document.body.style.backgroundColor = getColor();
+quoteButton.style.backgroundColor = document.body.style.backgroundColor;
 
-newQuote.addEventListener("click", () => {
+quoteButton.addEventListener("click", () => {
   document.body.style.backgroundColor = getColor();
+  quoteButton.style.backgroundColor = document.body.style.backgroundColor;
   text.innerHTML = getQuote();
   author.innerHTML = "- " + getAuthor();
 });

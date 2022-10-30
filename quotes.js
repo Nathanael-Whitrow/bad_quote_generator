@@ -132,4 +132,7 @@ export const quotes = [
   {
     "Do you wish me a good morning, or mean that it is a good morning whether I want it or not; or that you feel good this morning; or that it is a morning to be good on?": "Gandalf"
   },
+  {
+    "They're taking the hobbits to Isengard!": "Legolas"
+  },
 ];

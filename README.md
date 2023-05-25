@@ -32,7 +32,7 @@ To install and run the Bad Quote Generator, follow these steps:
 1. **Clone the repository**
 
     ```
-    git clone https://github.com/<YourUserName>/bad-quote-generator.git
+    git clone https://github.com/Nathanael-Whitrow/bad-quote-generator.git
     ```
 
 2. **Navigate into the directory**
@@ -62,7 +62,7 @@ We appreciate contributions from users! If you want to contribute to the Bad Quo
 
 ## Contact
 
-If you want to contact the maintainer of the project, you can reach out at `<nathanael.whitrow@gmail.com>`.
+If you want to contact the maintainer of the project, you can reach out at nathanael.whitrow@gmail.com.
 
 ## Acknowledgments
 
